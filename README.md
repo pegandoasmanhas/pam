@@ -1,4 +1,4 @@
 # pam-diagrams
 
 
-![Image](./statics/imgs/Diagram.svg)
+![Image](./statics/imgs/Diagram-00.svg)
