@@ -79,3 +79,17 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fusers-and-r
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> A set of Kubernetes icons. Obsolete, as there is currently an integrated set in the app.
 
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
+
+
+
+
+# Draw.io Tools
+
+* <a href="https://jgraph.github.io/drawio-tools/tools/convert.html" target="_blank">Convert:</a> Inflate/deflate, URL encode/decode and remove linefeeds from any text
+* <a href="https://jgraph.github.io/drawio-tools/tools/base64.html" target="_blank">Base64:</a> Base64 encode images
+* <a href="https://jgraph.github.io/drawio-tools/tools/merge.html" target="_blank">Merge:</a> Create vertical image stack
+* <a href="https://jgraph.github.io/drawio-tools/tools/viewer.html" target="_blank">Viewer:</a> Create link for viewing diagrams
+* <a href="https://jgraph.github.io/drawio-tools/tools/csv.html" target="_blank">CSV:</a> Create link for viewing CSV
+* <a href="https://jgraph.github.io/drawio-tools/tools/link.html" target="_blank">Link:</a> Create custom links
+* <a href="https://jgraph.github.io/drawio-tools/tools/tickets.html" target="_blank">Tickets:</a> Freshdesk Tickets Editor
+* <a href="https://jgraph.github.io/drawio-tools/tools/navigator.html" target="_blank">Navigator:</a> Navigator Object Info
